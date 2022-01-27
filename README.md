@@ -13,27 +13,26 @@
   </tr>
 </table>
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+
 ***
-<!--START_SECTION:waka-->
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript
+HTML
+CSS
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio Code
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows
 
 ```
 
-
- Last Updated on 27/01/2022 18:46:56 UTC
-<!--END_SECTION:waka-->
 ***
 
 **🛠 &nbsp;Tech Stack**
