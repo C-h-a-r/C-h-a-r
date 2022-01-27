@@ -1,5 +1,5 @@
 
-## Hello <img src="./assets/hi.gif" width="28px" alt="waving hand" /> 
+## Hello <img src="./hi.gif" width="28px" alt="waving hand" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-h-a-r&label=Profile%20Views&color=blue&style=plastic%22%20alt=%Char" /> </p>
 
 * I am Char. I code lots of things including discord bots, websites, APIs and more. Find all my work on my profile and freel free to star anything!
@@ -8,7 +8,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=C-h-a-rp&show_icons=true&theme=dark&locale=en&hide_border=true" alt="C-h-a-r" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=C-h-a-r&show_icons=true&theme=dark&locale=en&hide_border=true" alt="C-h-a-r" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-h-a-r&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
