@@ -58,7 +58,7 @@ Windows
 
 ***
 
--  🔭 I’m currently working on a discord bot to help other programers.
+-  🔭 I’m currently working on discord bots and websites.
 
 -  💬 I talk alot on Discord and i also post on Youtube sometimes.
 
