@@ -2,7 +2,7 @@
 ## Hello <img src="./hi.gif" width="28px" alt="waving hand" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-h-a-r&label=Profile%20Views&color=blue&style=plastic%22%20alt=%Char" /> </p>
 
-* I am Char. I code lots of things including discord bots, websites, APIs and more. Find all my work on my profile and freel free to star anything!
+* I am Char. I code lots of things including discord bots, websites, APIs and more. Find all my work on my profile and feel free to star anything!
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
