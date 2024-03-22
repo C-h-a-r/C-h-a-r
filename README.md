@@ -11,6 +11,4 @@
 ![Chars GitHub stats](https://github-readme-stats.vercel.app/api?username=c-h-a-r&show_icons=true&theme=dark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=c-h-a-r&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
