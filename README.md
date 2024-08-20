@@ -8,7 +8,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,py,express,figma,git,mongodb,tauri,replit,robloxstudio,vscode">  
 <br><br>
 
-![Chars GitHub stats](https://github-readme-stats.vercel.app/api?username=c-h-a-r&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-h-a-r&theme=transparent&hide_border=true&layout=compact&langs_count=10&hide=css" height="192px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=C-h-a-r&hide_border=true&card_width=338&theme=transparent"></p>
 </p>
